@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="W5KK/5FKDJ{Ep#U=(*R@" x="0" y="0"><statement name="HANDLER"><block type="mixer_play_sound" id="_,]m/vsc]!joFB}h+BM5"><field name="sound">music.buzzer</field></block></statement></block></xml>
